@@ -1,2 +1,6 @@
-dataset/
-yolo26m.pt
+dataset
+assets
+runs
+models
+.env
+.ipynb_checkpoints
